@@ -2,7 +2,6 @@
 
 A collection of WHMCS class API examples to help you out
 
-## WHMCS Class API Documentation
 The WHMCS Class API documentation can be found [here](https://classdocs.whmcs.com/)
 
 ## Donate
