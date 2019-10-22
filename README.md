@@ -1,4 +1,4 @@
-## WHMCS Tools
+## WHMCS Class API Examples
 
 A collection of WHMCS class API examples to help you out
 
