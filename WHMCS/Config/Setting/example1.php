@@ -5,7 +5,7 @@
  * 
  * @author Shaun Reitan
  * 
- * @see https://github.com/ShaunR/whmcs-tools
+ * @see https://github.com/ShaunR/WHMCS-Class-API-Examples
  * 
  * @see https://classdocs.whmcs.com/7.8/WHMCS/Config/Setting.html
  *
