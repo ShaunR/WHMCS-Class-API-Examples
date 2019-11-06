@@ -5,11 +5,11 @@
  * 
  * @author Shaun Reitan
  * 
- * @see https://github.com/ShaunR/whmcs-tools
+ * @see https://github.com/ShaunR/WHMCS-Class-API-Examples
  * 
  * @see https://classdocs.whmcs.com/7.8/WHMCS/Module/Addon/Setting.html
  *
- * @example: php whmcs_module_addon_setting.php -p /path/to/whmcs -m addon_module_name
+ * @example: php example1.php -p /path/to/whmcs --module addon_module_name
  * 
  */
 
